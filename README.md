@@ -70,6 +70,7 @@ An end-to-end business analysis project using Excel to analyze sales, profitabil
 
 
 ## Skills Demonstrated
+- Excel for business analysis (formulas, Pivot Tables, dashboards)
 - SQL for analysis (joins, aggregations, business logic)  
 - Power BI for business dashboards and storytelling  
 - Data cleaning and validation  
