@@ -52,7 +52,6 @@ Instead of forcing inaccurate metrics, I removed target-based visuals that could
 
 ---
 
-
 ### 4️⃣ Project 4 – E-Commerce Sales & Profitability Analysis | Excel
 
 An end-to-end business analysis project using Excel to analyze sales, profitability, customer behavior, and performance trends through formulas, Pivot Tables, charts, and dashboards.
