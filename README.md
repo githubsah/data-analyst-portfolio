@@ -52,22 +52,22 @@ Instead of forcing inaccurate metrics, I removed target-based visuals that could
 
 ---
 
+
 ### 4️⃣ Project 4 – E-Commerce Sales & Profitability Analysis | Excel
 
 An end-to-end business analysis project using Excel to analyze sales, profitability, customer behavior, and performance trends through formulas, Pivot Tables, charts, and dashboards.
 
-This project focuses on answering business questions, identifying performance patterns, and translating raw data into actionable business insights.
-
 **What this shows:**
-- Business question → analysis → insight workflow
-- Excel formulas for analytical problem solving (LOOKUPs, IF logic, aggregations)
-- Pivot Table and chart-based trend analysis
-- Dashboard thinking for business reporting
-- Translating raw data into business-ready insights
+- Business question → analysis → insight thinking  
+- Comfort using Excel formulas for analysis (LOOKUPs, IF logic, aggregations)  
+- Pivot Table and chart-based trend analysis  
+- Dashboard design for business reporting  
+- Translating raw data into business insights  
 
 🔗 GitHub Repo: https://github.com/githubsah/[your-project-repo-link]
 
 ---
+
 
 ## Skills Demonstrated
 - SQL for analysis (joins, aggregations, business logic)  
