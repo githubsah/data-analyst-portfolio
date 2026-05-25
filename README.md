@@ -58,7 +58,7 @@ An end-to-end business analysis project using Excel to analyze sales, profitabil
 
 **What this shows:**
 - Business question → analysis → insight thinking  
-- Comfort using Excel formulas for analysis (LOOKUPs, IF logic, aggregations)  
+- Comfort using Excel formulas for analysis (VLOOKUP, INDEX-MATCH, IF logic, aggregations) 
 - Pivot Table and chart-based trend analysis  
 - Dashboard design for business reporting  
 - Translating raw data into business insights  
