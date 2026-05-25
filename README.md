@@ -63,7 +63,7 @@ An end-to-end business analysis project using Excel to analyze sales, profitabil
 - Dashboard design for business reporting  
 - Translating raw data into business insights  
 
-🔗 GitHub Repo: https://github.com/githubsah/[your-project-repo-link]
+🔗 GitHub Repo: https://github.com/githubsah/ecommerce-excel-business-analysis
 
 ---
 
