@@ -99,7 +99,8 @@ https://github.com/githubsah/ecommerce-excel-business-analysis
 
 ## 📜 Certification
 
-**GeeksforGeeks – Complete Data Analytics Program (2026)** :contentReference[oaicite:0]{index=0}
+**GeeksforGeeks – Complete Data Analytics Program (2026)**  
+📄 View Certificate: https://github.com/githubsah/gfg-data-analytics-certificate
 
 ---
 
