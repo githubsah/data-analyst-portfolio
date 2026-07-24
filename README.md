@@ -102,6 +102,10 @@ https://github.com/githubsah/ecommerce-excel-business-analysis
 **GeeksforGeeks – Complete Data Analytics Program (2026)**  
 📄 View Certificate: https://github.com/githubsah/gfg-data-analytics-certificate
 
+### 2. IBM Skills Network (via GeeksforGeeks) – Generative AI Skills for Data Analysts (2026)
+📄 Certificate:
+https://github.com/githubsah/ibm-generative-ai-skills-for-data-analysts
+
 ---
 
 ## 📬 Contact
