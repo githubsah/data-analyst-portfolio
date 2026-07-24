@@ -104,7 +104,7 @@ https://github.com/githubsah/ecommerce-excel-business-analysis
 
 ### 2. IBM Skills Network (via GeeksforGeeks) – Generative AI Skills for Data Analysts (2026)
 📄 Certificate:
-https://github.com/githubsah/ibm-generative-ai-skills-for-data-analysts
+https://courses.gfg.skillsnetwork.site/certificates/be25cc50ea704563bad216c657585e4b
 
 ---
 
